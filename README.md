@@ -8,7 +8,7 @@
 - Passionate about **cloud-native technologies**, **CI/CD pipelines**, and **infrastructure automation**
 - Experienced with tools like Docker, Kubernetes, Jenkins, Terraform, and Ansible
 - Cloud platforms: AWS | Azure | GCP
--  optimizing developer workflows and system reliability
+- Optimizing developer workflows and system reliability
 - Contributor to open-source DevOps tooling
 
 ---
@@ -25,15 +25,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guy-hemo&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" />
 </p>
 
 ---
 
-
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/guy-hemo-807a4b180))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-hemo-807a4b180)
 
 ---
 
