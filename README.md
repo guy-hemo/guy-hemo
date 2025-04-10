@@ -43,11 +43,6 @@
 ![GitHub Contributions](https://img.shields.io/github/contributors/guy-hemo/guy-hemo?style=flat-square)
 <img src="https://img.shields.io/github/followers/guy-hemo?style=social" alt="GitHub Followers Badge">
 ![GitHub Stars](https://img.shields.io/github/stars/guy-hemo/guy-hemo?style=social)
-![GitHub Commit Streak](https://img.shields.io/github/commit-activity/w/guy-hemo?style=flat-square)
-![GitHub Commit Calendar](https://img.shields.io/github/commit-activity/m/guy-hemo?style=flat-square)
-
-
-
 
 ---
 
