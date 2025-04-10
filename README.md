@@ -17,7 +17,7 @@
 
 | CI/CD | Cloud | Infra as Code | Monitoring | Scripting |
 |-------|-------|----------------|------------|-----------|
-| Jenkins, GitHub Actions | AWS, GCP, Azure | Terraform, Ansible, Helm | Prometheus, Grafana, ELK | Bash, Python, YAML |
+| <img src="../../resources/images/logos/logos_argocd.svg" width="40" height="40" alt="ArgoCD" /><br>ArgoCD, GitHub Actions | AWS, GCP, Azure | Terraform, Ansible, Helm | Prometheus, Grafana, ELK | Bash, Python, YAML |
 
 ---
 
