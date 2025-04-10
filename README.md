@@ -37,8 +37,9 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guy-hemo-807a4b180)
+[![LinkedIn](https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_linkedin.svg)](https://www.linkedin.com/in/guy-hemo-807a4b180)
+
 
 ---
 
-*“Automate everything that can be automated. Repeat nothing manually.”*
+*“Everything can be automated. Repeat nothing manually.”*
