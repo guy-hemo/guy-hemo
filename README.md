@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=guy-hemo&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=guy-hemo&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 ---
