@@ -37,7 +37,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_linkedin.svg)](https://www.linkedin.com/in/guy-hemo-807a4b180)
+[![LinkedIn](https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_linkedIn.svg)](https://www.linkedin.com/in/guy-hemo-807a4b180)
 
 
 ---
