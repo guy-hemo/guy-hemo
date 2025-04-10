@@ -40,12 +40,12 @@
 <a href="https://www.linkedin.com/in/guy-hemo-807a4b180"><img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_linkedIn.svg" width="40" height="40" alt="LinkedIn" />LinkedIn Profile</a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guy-hemo)
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/guy-hemo?style=flat-square)
-<img src="https://img.shields.io/github/followers/guy-hemo?style=social">
-<img src="https://img.shields.io/github/stars/guy-hemo?style=social">
+![GitHub Contributions](https://img.shields.io/github/contributors/guy-hemo/guy-hemo?style=flat-square)
+<img src="https://img.shields.io/github/followers/guy-hemo?style=social" alt="GitHub Followers Badge">
+![GitHub Stars](https://img.shields.io/github/stars/guy-hemo/guy-hemo?style=social)
 ![GitHub Commit Streak](https://img.shields.io/github/commit-activity/w/guy-hemo?style=flat-square)
 ![GitHub Commit Calendar](https://img.shields.io/github/commit-activity/m/guy-hemo?style=flat-square)
-![Code Coverage](https://img.shields.io/codecov/c/github/guy-hemo/guy-hemo?style=flat-square)
+
 
 
 
