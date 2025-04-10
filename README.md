@@ -28,14 +28,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" />
-</p>
+[![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=guy-hemo&theme=github-compact)](https://github.com/guy-hemo)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=github_dark)](https://github.com/guy-hemo)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guy-hemo&theme=github-dark)](https://git.io/streak-stats)
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guy-hemo&theme=github-compact)](https://github.com/guy-hemo)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=guy-hemo&theme=github-dark" alt="GitHub Streak" />
+</p>
 
 ---
 
