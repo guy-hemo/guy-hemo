@@ -33,6 +33,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" />
 </p>
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=github_dark)](https://github.com/guy-hemo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guy-hemo&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=guy-hemo&theme=github-compact)](https://github.com/guy-hemo)
+
 ---
 
 ### 📫 Connect With Me
@@ -43,6 +47,8 @@
 ![GitHub Contributions](https://img.shields.io/github/contributors/guy-hemo/guy-hemo?style=flat-square)
 <img src="https://img.shields.io/github/followers/guy-hemo?style=social" alt="GitHub Followers Badge">
 ![GitHub Stars](https://img.shields.io/github/stars/guy-hemo/guy-hemo?style=social)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=guy-hemo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
