@@ -17,7 +17,7 @@
 
 | CI/CD | Cloud | Infra as Code | Monitoring | Scripting |
 |-------|-------|----------------|------------|-----------|
-| <img src="../../images/logos/logos_argocd.svg" width="40" height="40" alt="ArgoCD" /><br>ArgoCD, GitHub Actions | AWS, GCP, Azure | Terraform, Ansible, Helm | Prometheus, Grafana, ELK | Bash, Python, YAML |
+| <img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_argocd.svg" width="40" height="40" alt="ArgoCD" /><br>ArgoCD, GitHub Actions | AWS, GCP, Azure | Terraform, Ansible, Helm | Prometheus, Grafana, ELK | Bash, Python, YAML |
 
 ---
 
