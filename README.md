@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - Passionate about **cloud-native technologies**, **CI/CD pipelines**, and **infrastructure automation**
 - Experienced with tools like Docker, Kubernetes, Jenkins, Terraform, and Ansible
@@ -18,8 +18,9 @@
 <img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_python.svg" width="75"/><br>
 [![Simple Python Web Application](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/guy-hemo/website&cloudshell_tutorial=README.md)
 
+---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 | CI/CD | Cloud | IaC | Monitoring | Scripting | Platforms & Tools |
 |:-----:|:-----:|:--:|:----------:|:---------:|:-----------------:|
@@ -32,7 +33,7 @@
 |   |   |   |   |   | <img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_vscode.svg" width="40"/><br>VSCode |
 |   |   |   |   |   | <img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_vim.svg" width="40"/><br>Vim |
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 [![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=guy-hemo&theme=github-compact)](https://github.com/guy-hemo)
 
@@ -42,7 +43,7 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/guy-hemo-807a4b180"><img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_linkedIn.svg" width="40" height="40" alt="LinkedIn" />  LinkedIn Profile</a>
 
