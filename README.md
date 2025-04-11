@@ -12,6 +12,10 @@
 - Contributor to open-source DevOps tooling
 
 ---
+###  Projects
+
+[![Simple Python Web Application](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/guy-hemo/website&cloudshell_tutorial=README.md)
+
 
 ### 🧰 Tech Stack
 
@@ -32,7 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guy-hemo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-hemo&layout=compact&theme=radical" alt="Top Languages" />
 
 
 ---
