@@ -16,8 +16,6 @@
 
 ### Simple Python Web Application:
 <img src="https://raw.githubusercontent.com/guy-hemo/guy-hemo/logos/images/logos/logos_python.svg" width="75"/><br>
-
-#### Simple Python WebSite:
 [![Simple Python Web Application](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/guy-hemo/website&cloudshell_tutorial=README.md)
 
 
